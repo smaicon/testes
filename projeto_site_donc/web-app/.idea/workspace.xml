@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="346fef30-68ae-4b12-a505-fd48a19cb4d4" name="Default" comment="1 versão front end.&#10;Sugestões de melhorias são bem vindas" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="projeto_site" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>todo</find>
+      <find>header nav ul</find>
+      <find>sec</find>
+      <find>how</find>
+      <find>bod</find>
+      <find>heade</find>
+      <find>&quot;container&quot;</find>
+      <find>sub</find>
+      <find>main</find>
+      <find>op</find>
+      <find>form</find>
+      <find>email</find>
+      <find>image</find>
+      <find>of</find>
+      <find>btn</find>
+      <find>footer</find>
+      <find>no con</find>
+      <find>nossos cli</find>
+      <find>cliente</find>
+      <find>team</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/reset.css" />
+        <option value="$PROJECT_DIR$/css/grid.css" />
+        <option value="$PROJECT_DIR$/css/icons.css" />
+        <option value="$PROJECT_DIR$/css/menu.css" />
+        <option value="$PROJECT_DIR$/css/home.css" />
+        <option value="$PROJECT_DIR$/css/clientes.html" />
+        <option value="$PROJECT_DIR$/css/contato.html" />
+        <option value="$PROJECT_DIR$/css/equipe.html" />
+        <option value="$PROJECT_DIR$/css/produto.html" />
+        <option value="$PROJECT_DIR$/css/typography.css" />
+        <option value="$PROJECT_DIR$/css/pages/form.css" />
+        <option value="$PROJECT_DIR$/css/pages/produto.css" />
+        <option value="$PROJECT_DIR$/css/pages/home.min.min.css" />
+        <option value="$PROJECT_DIR$/css/pages/produto.min.min.css" />
+        <option value="$PROJECT_DIR$/projeto/index.html" />
+        <option value="$PROJECT_DIR$/projeto/css/style.css" />
+        <option value="$PROJECT_DIR$/css/pages/clientes.css" />
+        <option value="$PROJECT_DIR$/css/pages/quem-somos.css" />
+        <option value="$PROJECT_DIR$/produto.html" />
+        <option value="$PROJECT_DIR$/despesa.html" />
+        <option value="$PROJECT_DIR$/css/pages/saibamais.css" />
+        <option value="$PROJECT_DIR$/css/pages/equipe.css" />
+        <option value="$PROJECT_DIR$/equipe.html" />
+        <option value="$PROJECT_DIR$/quem-somos.html" />
+        <option value="$PROJECT_DIR$/css/buttons.css" />
+        <option value="$PROJECT_DIR$/css/pages/despesas.css" />
+        <option value="$PROJECT_DIR$/clientes.html" />
+        <option value="$PROJECT_DIR$/css/pages/noticias.css" />
+        <option value="$PROJECT_DIR$/css/pages/calendario.css" />
+        <option value="$PROJECT_DIR$/contato.html" />
+        <option value="$PROJECT_DIR$/css/pages/vereadores.css" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/saibamais.html" />
+        <option value="$PROJECT_DIR$/vereadores.html" />
+        <option value="$PROJECT_DIR$/despesas.html" />
+        <option value="$PROJECT_DIR$/css/pages/contato.css" />
+        <option value="$PROJECT_DIR$/css/pages/home.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/calendario.html" />
+        <option value="$PROJECT_DIR$/noticias.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="560" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="718" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../web-app" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="6.11.1" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\projetos\web\projeto_site\images\backgrounds" />
+      <recent name="E:\projetos\web\projeto_site\images\logo" />
+      <recent name="E:\projetos\web\projeto_site" />
+      <recent name="E:\projetos\web\projeto_site\images" />
+      <recent name="E:\projetos\web\projeto_site\css\" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\projetos\web\projeto_site\css\pages" />
+      <recent name="E:\projetos\web\projeto_site\images" />
+      <recent name="E:\projetos\web\projeto_site" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/projeto_site/index.html" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="346fef30-68ae-4b12-a505-fd48a19cb4d4" name="Default" comment="" />
+      <created>1501534508152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501534508152</updated>
+      <workItem from="1501534511361" duration="13684000" />
+      <workItem from="1501614782362" duration="8999000" />
+      <workItem from="1501628036949" duration="3550000" />
+      <workItem from="1502028906343" duration="16946000" />
+      <workItem from="1502049465571" duration="13912000" />
+      <workItem from="1502372920487" duration="1338000" />
+      <workItem from="1502377217776" duration="802000" />
+      <workItem from="1502542219429" duration="7171000" />
+      <workItem from="1502598692967" duration="11856000" />
+      <workItem from="1502715304708" duration="2234000" />
+      <workItem from="1502718257731" duration="1280000" />
+      <workItem from="1502759522153" duration="1708000" />
+      <workItem from="1502806273504" duration="8230000" />
+      <workItem from="1502969865934" duration="2913000" />
+      <workItem from="1503059606885" duration="1777000" />
+      <workItem from="1503253393775" duration="5622000" />
+      <workItem from="1503259107485" duration="2363000" />
+      <workItem from="1503402508052" duration="600000" />
+      <workItem from="1506598913894" duration="607000" />
+      <workItem from="1506729549887" duration="195000" />
+      <workItem from="1507897639471" duration="48000" />
+      <workItem from="1508155667650" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="106148000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22547585" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03169572" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/icons.css" />
+    <entry file="file://$PROJECT_DIR$/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/css/buttons.css" />
+    <entry file="file://$PROJECT_DIR$/css/typography.css" />
+    <entry file="file://$PROJECT_DIR$/css/grid.css" />
+    <entry file="file://$PROJECT_DIR$/css/menu.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/reset.css" />
+    <entry file="file://$PROJECT_DIR$/css/buttons.css" />
+    <entry file="file://$PROJECT_DIR$/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/css/typography.css" />
+    <entry file="file://$PROJECT_DIR$/css/grid.css" />
+    <entry file="file://$PROJECT_DIR$/css/icons.css" />
+    <entry file="file://$PROJECT_DIR$/css/pages/form.css" />
+    <entry file="file://$PROJECT_DIR$/images/backgrounds/background-header.jpg" />
+    <entry file="file://$PROJECT_DIR$/css/pages/quem-somos.min.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/pages/home.min.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/pages/produto.min.min.css" />
+    <entry file="file://$PROJECT_DIR$/projeto/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/projeto/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/images/social-facebook.png" />
+    <entry file="file://$PROJECT_DIR$/css/pages/despesas.css" />
+    <entry file="file://$PROJECT_DIR$/images/flp_aerea.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/flp_aerea.psd" />
+    <entry file="file://$PROJECT_DIR$/images/backgrounds/background-equipe.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/backgrounds/1.png" />
+    <entry file="file://$PROJECT_DIR$/images/backgrounds/background-clientes.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/logo/logoHorizontal_sf.png" />
+    <entry file="file://$PROJECT_DIR$/images/logo/logoHorizontal.png" />
+    <entry file="file://$PROJECT_DIR$/projeto/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/pages/contato.css" />
+    <entry file="file://$PROJECT_DIR$/despesas.html" />
+    <entry file="file://$PROJECT_DIR$/contato.html" />
+    <entry file="file://$PROJECT_DIR$/vereadores.html" />
+    <entry file="file://$PROJECT_DIR$/saibamais.html" />
+    <entry file="file://$PROJECT_DIR$/css/pages/home.css" />
+    <entry file="file://$PROJECT_DIR$/css/pages/calendario.css" />
+    <entry file="file://$PROJECT_DIR$/css/pages/noticias.css" />
+    <entry file="file://$PROJECT_DIR$/css/pages/saibamais.css" />
+    <entry file="file://$PROJECT_DIR$/css/pages/vereadores.css" />
+    <entry file="file://$PROJECT_DIR$/css/buttons.css" />
+    <entry file="file://$PROJECT_DIR$/css/form.css" />
+    <entry file="file://$PROJECT_DIR$/css/grid.css" />
+    <entry file="file://$PROJECT_DIR$/calendario.html" />
+    <entry file="file://$PROJECT_DIR$/noticias.html" />
+    <entry file="file://$PROJECT_DIR$/css/icons.css" />
+    <entry file="file://$PROJECT_DIR$/css/menu.css" />
+    <entry file="file://$PROJECT_DIR$/css/reset.css" />
+    <entry file="file://$PROJECT_DIR$/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/css/typography.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
